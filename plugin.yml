@@ -1,0 +1,7 @@
+name: "grpc-server-app-plugin"
+description: Plugin to configure grpc server
+types:
+  - app
+tags:
+  - grpc
+  - server
